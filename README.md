@@ -1,7 +1,7 @@
 # Chayesh.github.io
 
-##Projects
-##Project1
+#Projects
+#Project1
 - Description
 - Links
 
