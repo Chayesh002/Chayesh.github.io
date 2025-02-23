@@ -9,7 +9,7 @@
   - Description
   - Links
  
-    #Education
+    # Education
     - Some University
    
       # Work History
